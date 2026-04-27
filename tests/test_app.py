@@ -1,6 +1,7 @@
 import copy
 from urllib.parse import quote
 
+
 import pytest
 from fastapi.testclient import TestClient
 
